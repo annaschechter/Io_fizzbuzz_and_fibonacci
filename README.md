@@ -1,0 +1,1 @@
+This is a code for playing the FizzBuzz game for numbers from 1 to 100. The code is written in Io and in order to be executed the method "game" needs to be called in io repl.
